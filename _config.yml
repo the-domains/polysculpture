@@ -9,23 +9,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.9375
   brandStrength: 0.5
-  lightness: 0.001611154
+  rhythmicContrast: 1
   brandColors:
     - '#d6e7f1'
     - '#5a9db0'
     - '#9e6343'
     - '#f3ab93'
     - '#4a3427'
-  rhythmicContrast: 1
+  lightness: 0.001611154
 cta:
   bucket: null
   version: null
@@ -34,11 +34,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: polysculpture
 favicon: null
+name: polysculpture
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.26335
-layout_spectrum: 0.75626
+layout_spectrum: 0.4194415
