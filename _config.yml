@@ -1,32 +1,44 @@
-name: polysculpture
-favicon: null
-layout_spectrum: 0.75626
-typography_spectrum: 0.26335
 title: Polysculpture
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose:
+  - name: follow
+    url: null
+    item: ca792709-0c0e-46b6-8577-653909fd1504
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.9375
+  brandStrength: 0.5
+  lightness: 0.001611154
   brandColors:
     - '#d6e7f1'
     - '#5a9db0'
     - '#9e6343'
     - '#f3ab93'
     - '#4a3427'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.9375
   rhythmicContrast: 1
-purpose:
-  - name: follow
-    item: ca792709-0c0e-46b6-8577-653909fd1504
-    url: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: polysculpture
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.26335
+layout_spectrum: 0.75626
