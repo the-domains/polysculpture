@@ -1,6 +1,7 @@
 name: polysculpture
 favicon: null
 layout_spectrum: 0.8
+title: Polysculpture
 cta:
   domain: null
   bucket: null
@@ -21,5 +22,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: follow
-    item: null
+    item: 90f7fce8-75e5-4a2e-a227-9ce85a542d88
     url: null
