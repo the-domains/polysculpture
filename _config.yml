@@ -23,9 +23,9 @@ color:
     - '#f3ab93'
     - '#4a3427'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose:
   - name: follow
     item: ca792709-0c0e-46b6-8577-653909fd1504
