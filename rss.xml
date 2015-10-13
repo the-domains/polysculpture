@@ -5,8 +5,22 @@
         <description><![CDATA[Polysculpture]]></description>
         <link>https://thegrid.ai/polysculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 10 Oct 2015 18:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2015 15:20:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/polysculpture/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a formal test for testing]]></title>
+            <description><![CDATA[<article><h1>This is a formal test for testing</h1><p>fdsfdsfd</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3550ded-6945-421e-a517-36f45a85489a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/polysculpture/this-is-a-formal-test-for-testing/index.html</link>
+            <guid isPermaLink="false">f50a1314-5743-4cc1-ba55-c2323b1e0225</guid>
+            <pubDate>Tue, 13 Oct 2015 15:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>gfdbnmbv</p>]]></description>
+            <link>https://thegrid.ai/polysculpture/fe2f1eff-dc12-4a28-98ef-ffc29347bd34/index.html</link>
+            <guid isPermaLink="false">fe2f1eff-dc12-4a28-98ef-ffc29347bd34</guid>
+            <pubDate>Sat, 10 Oct 2015 18:27:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test1]]></title>
             <description><![CDATA[<article><h1>Test1</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50c4cc1f-b3c4-4a45-9969-a74e5be3f82d.jpg"></article>]]></description>
