@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Polysculpture]]></title>
         <description><![CDATA[Polysculpture]]></description>
         <link>https://thegrid.ai/polysculpture/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 15:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 00:29:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/polysculpture/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is a formal test for testing]]></title>
             <description><![CDATA[<article><h1>This is a formal test for testing</h1><p>fdsfdsfd</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3550ded-6945-421e-a517-36f45a85489a.jpg"></article>]]></description>
             <link>https://thegrid.ai/polysculpture/this-is-a-formal-test-for-testing/index.html</link>
             <guid isPermaLink="false">f50a1314-5743-4cc1-ba55-c2323b1e0225</guid>
-            <pubDate>Tue, 13 Oct 2015 15:20:28 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2015 00:28:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
