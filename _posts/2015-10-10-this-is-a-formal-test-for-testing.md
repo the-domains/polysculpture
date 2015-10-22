@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: fdsfdsfd
-datePublished: '2015-10-13T15:20:28.919Z'
-dateModified: '2015-10-12T23:55:00.298Z'
+datePublished: '2015-10-22T00:28:05.876Z'
+dateModified: '2015-10-22T00:28:01.335Z'
 title: This is a formal test for testing
 sourcePath: _posts/2015-10-10-this-is-a-formal-test-for-testing.md
 published: true
